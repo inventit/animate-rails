@@ -26,7 +26,7 @@ In your `application.css` you will need to add this line:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/inventit/ion-rangeSlider-rails.
+Bug reports and pull requests are welcome on GitHub at https://github.com/inventit/animate-rails.
 
 ## License
 
