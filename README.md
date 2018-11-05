@@ -1,6 +1,8 @@
 # Animate::Rails
 
-[animate.css](https://github.com/daneden/animate.css) for Rails
+[animate.css](https://github.com/daneden/animate.css) for Rails.
+
+`animate-rails` also includes utility javascript function which detects the animation end described [here](https://github.com/daneden/animate.css#usage-with-jquery).
 
 ## Installation
 
