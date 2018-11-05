@@ -26,6 +26,10 @@ In your `application.css` you will need to add this line:
 
     *= require animate
 
+If you want to use the utility javascript function, you will need to add this line in your `application.js`:
+
+    //= require animate
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/inventit/animate-rails.
